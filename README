@@ -1,0 +1,20 @@
+## A simple calc
+This is a simple calc in Flex and Yacc
+
+## How to run
+Windows:
+```
+win_flex lex.l
+win_bison calc.y
+gcc calc.tab.c
+./a.exe
+```
+Mac/Linux:
+```
+flex lex.l
+bison calc.y
+gcc calc.tab.c
+./a.out
+```
+
+If you find some error,Plaese open a issue!
