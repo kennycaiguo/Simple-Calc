@@ -17,7 +17,7 @@ gcc calc.tab.c
 ./a.out
 ```
 
-## example
+## Examples
 ```
 1+1
 2
@@ -29,4 +29,7 @@ gcc calc.tab.c
 lexical error.
 ```
 
-If you find some error,Plaese open a issue!
+If you find some errors,Plaese open a issue!
+
+## License
+MIT license(2020 Stepfen Shawn)
