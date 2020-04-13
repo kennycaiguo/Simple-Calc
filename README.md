@@ -29,7 +29,7 @@ gcc calc.tab.c
 lexical error.
 ```
 
-If you find some errors,Plaese open a issue!
+If you find some errors,Plaese open an issue!
 
 ## License
 MIT license(2020 Stepfen Shawn)
