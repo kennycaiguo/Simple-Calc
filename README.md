@@ -1,5 +1,17 @@
 ## A simple calc
-This is a simple calc in Flex and Yacc
+This is a simple calc in lex(flex) and Yacc(bison).
+
+## Clone
+
+```
+git clone git@github.com:StepfenShawn/Simple-Calc.git
+```
+
+## Installing dependencies
+
+* gcc/clang
+* flex
+* bison
 
 ## How to run
 Windows:
@@ -11,10 +23,10 @@ gcc calc.tab.c
 ```
 Mac/Linux:
 ```
-flex lex.l
-bison calc.y
-gcc calc.tab.c
-./a.out
+$ flex lex.l
+$ bison calc.y
+$ gcc calc.tab.c
+$ ./a.out
 ```
 
 ## Examples
