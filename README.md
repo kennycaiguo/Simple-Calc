@@ -41,7 +41,7 @@ $ ./a.out
 lexical error.
 ```
 
-If you find some errors,Plaese open an issue!
+If you find some errors,plaese open an issue!
 
 ## License
-MIT license(2020 Stepfen Shawn)
+[MIT license(2020 Stepfen Shawn)](https://github.com/StepfenShawn/Simple-Calc/blob/master/LICENSE)
