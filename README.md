@@ -10,16 +10,16 @@ git clone git@github.com:StepfenShawn/Simple-Calc.git
 ## Installing dependencies
 
 * gcc/clang
-* flex
-* bison
+* flex(win_flex)
+* bison(win_bison)
 
 ## How to run
 Windows:
 ```
-win_flex lex.l
-win_bison calc.y
-gcc calc.tab.c
-./a.exe
+> win_flex lex.l
+> win_bison calc.y
+> gcc calc.tab.c
+> ./a.exe
 ```
 Mac/Linux:
 ```
